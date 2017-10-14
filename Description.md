@@ -1,2 +1,2 @@
 **Codekal**
-Kadıköy Anadolu Lisesi Yazılım Klübüdür klübün ana amacı kodlama bilmeyenlere kodlama öğretmektir.
+Kadıköy Anadolu Lisesi Yazılım Kulübüdür kulübün ana amacı kodlama bilmeyenlere kodlama öğretmektir.
