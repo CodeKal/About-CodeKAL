@@ -1,3 +1,3 @@
-Üsküdar Amerikan Lisesi’nin düzenlemiş olduğu liselerarası bir yarışma olan CodeFest 2016’ya Kerem Zaman, Canberk Artan ve Deniz Karakay ile katıldık.
-Üsküdar Amerikan Lisesi’nin düzenlemiş olduğu liselerarası bir çalıştay olan DesignFest 2016’ya Deniz Karakay, Ali Ozan Demir ve Bora Akdoğan ile katıldık. Yarışma sonunda çalıştayı veren Gram Games mühendis ve tasarımcıları tarafından 3 saatte yaptığımız oyunumuz en iyi oyun seçildi. 
-“Python ile Temel Programlama” ve “Unity ile Oyun Programlama” dersleri Kerem Zaman ve Deniz Karakay tarafından okuldaki öğrenci ve öğretmenlere verildi.
+-ÃœskÃ¼dar Amerikan Lisesiâ€™nin dÃ¼zenlemiÅŸ olduÄŸu liselerarasÄ± bir yarÄ±ÅŸma olan CodeFest 2016â€™ya Kerem Zaman, Canberk Artan ve Deniz Karakay ile katÄ±ldÄ±k.
+-ÃœskÃ¼dar Amerikan Lisesiâ€™nin dÃ¼zenlemiÅŸ olduÄŸu liselerarasÄ± bir Ã§alÄ±ÅŸtay olan DesignFest 2016â€™ya Deniz Karakay, Ali Ozan Demir ve Bora AkdoÄŸan ile katÄ±ldÄ±k. YarÄ±ÅŸma sonunda Ã§alÄ±ÅŸtayÄ± veren Gram Games mÃ¼hendis ve tasarÄ±mcÄ±larÄ± tarafÄ±ndan 3 saatte yaptÄ±ÄŸÄ±mÄ±z oyunumuz en iyi oyun seÃ§ildi. 
+-â€œPython ile Temel Programlamaâ€ ve â€œUnity ile Oyun Programlamaâ€ dersleri Kerem Zaman ve Deniz Karakay tarafÄ±ndan okuldaki Ã¶ÄŸrenci ve Ã¶ÄŸretmenlere verildi.
