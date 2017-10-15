@@ -1,3 +1,3 @@
 # Participant List
 
-- Deniz Karakay https://github.com/dkarakay -
+- _Deniz Karakay_ https://github.com/dkarakay
