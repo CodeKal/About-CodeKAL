@@ -4,7 +4,6 @@
 For [English](https://github.com/CodeKal/About-CodeKAL/blob/master/README_en.md) language
 
 CodeKAL [Web Sitesi](https://codekal.wordpress.com/)
-[intagram] (https://www.instagram.com/codekal/)
 
 CodeKAL [Üye Listesi](https://github.com/CodeKal/About-CodeKAL/blob/master/Participant_list.md)
 
