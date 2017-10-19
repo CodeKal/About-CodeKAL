@@ -1,1 +1,0 @@
-CodeKal+octoberfest's readme
