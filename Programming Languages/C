@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+
+
+printf("Welcome to CodeKAL");
+
+
+
+return 0;
+}
