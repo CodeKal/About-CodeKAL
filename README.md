@@ -3,7 +3,9 @@
 
 For [English](https://github.com/CodeKal/About-CodeKAL/blob/master/README_en.md) language
 
-CodeKAL [Üye Listesi](https://github.com/CodeKal/About-CodeKAL/blob/master/Participant_list.md)
+CodeKALCodeKAL [Web Sitesi](https://codekal.wordpress.com/)
+
+CodeKALCodeKAL [Üye Listesi](https://github.com/CodeKal/About-CodeKAL/blob/master/Participant_list.md)
 
 [Başarılarımız](https://github.com/CodeKal/About-CodeKAL/blob/master/basarilarimiz.md)
 
