@@ -13,7 +13,3 @@ CodeKAL [Üye Listesi](https://github.com/CodeKal/About-CodeKAL/blob/master/Part
 [Başarılarımız](https://github.com/CodeKal/About-CodeKAL/blob/master/basarilarimiz.md)
 
 [Instagram Hesabımız](https://www.instagram.com/codekal)
-
-
-
-
