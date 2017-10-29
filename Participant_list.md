@@ -10,4 +10,4 @@
 - Eren Dodanlı *https://github.com/erendod*
 - Gökçe Düzyol *https://github.com/Gokceduzyol*
 - Deniz Özbakır *https://github.com/denizozb*
-
+- Ege Sarı   *https://github.com/EgeSarii*
