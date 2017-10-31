@@ -6,4 +6,5 @@ ellerinden geldiği kadar yardımcı oluyorlar ve öğrencilerin de böylece yaz
 isteyen herkese açık, destekleyici üyelere sahip olan ve çok yeni kurulmasına rağmen gerçekten aktif olduğunu düşündüğüm bir kulüp. 
 CodeKAL'da gerçekten istediğim şeyleri başarmak için bir adım attığımı düşünüyorum ve ilgili herkese tavsiye ediyorum."
 -**Ege Sarı**: "CodeKal, gençleri gelecekteki dünyaya hazırlayan ve yeniliklere açık bireyler olmaya teşvik eden bir topluluk. Umarım bu kulüp uzun süre görevini sürdürebilir."
-- Add name/Adınızı ekleyin: "Your comment/yorumunuz."
+**İmre Kuranel**: "CodeKal, yazılıma ilgisi olan öğrenciler arasında iletişimi sağlayan ve öğrencileri yazılım öğrenmeye teşvik eden, okul adına büyük başarılara imza atabilecek bir kulüp. Kendini bu konuda geliştirmek veya kodlamaya başlangıç yapmak isteyen herkese kulübe katılmalarını tavsiye ederim." 
+-Add name/Adınızı ekleyin: "Your comment/yorumunuz."
