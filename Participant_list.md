@@ -11,3 +11,4 @@
 - Gökçe Düzyol *https://github.com/Gokceduzyol*
 - Deniz Özbakır *https://github.com/denizozb*
 - Ege Sarı   *https://github.com/EgeSarii*
+- İmre Kuranel *https://github.com/imreart*
