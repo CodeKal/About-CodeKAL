@@ -1,7 +1,7 @@
-#Doğru yerdesiniz
-Şimdi 2.aşama
+//Doğru yerdesiniz
+//Şimdi 2.aşama
 
-Basit bir problem:
-E42A63843D100BA54308BCB402568257
+Basit bir kelime:
+48bf7c556cde81937e66044fcede328f
 
 Sonucu yazdırmayı unutmayın!
