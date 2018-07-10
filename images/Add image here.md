@@ -1,1 +1,1 @@
-Message-Digest algorithm 5
+Message-Digest Algorithm 5
