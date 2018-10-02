@@ -1,3 +1,3 @@
 # CodeKAL
 
-The mission of the Kadıköy Anatolian High School Software Club is to teach coding to those who don't know how to.
+The mission of the Kadıköy Anatolian High School Software Club is teaching coding and participating national and internatioal contests.
